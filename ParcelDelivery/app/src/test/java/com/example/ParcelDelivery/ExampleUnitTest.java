@@ -1,4 +1,4 @@
-package com.example.parceldelivery;
+package com.example.ParcelDelivery;
 
 import org.junit.Test;
 
